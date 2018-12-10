@@ -1,0 +1,85 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-convertdataformat-nar
+
+
+From: 'an unknown organization'
+  - opencsv (http://opencsv.sf.net) com.opencsv:opencsv:jar:4.4
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - docconverter (https://github.com/assimbly) io.github.assimbly:docconverter:jar:1.1.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JSON in Java (https://github.com/douglascrockford/JSON-java) org.json:json:bundle:20180813
+    License: The JSON License  (http://json.org/license.html)
+  - lightning-csv (http://github.com/arnaudroger/SimpleFlatMapper/lightning-csv) org.simpleflatmapper:lightning-csv:bundle:6.0.9
+    License: The MIT License (MIT)  (http://opensource.org/licenses/MIT)
+  - Repackaged OW2 ASM Core (http://github.com/arnaudroger/SimpleFlatMapper/ow2-asm) org.simpleflatmapper:ow2-asm:jar:6.2
+    License: BSD License  (https://asm.ow2.io/license.html)
+  - sfm-converter (http://github.com/arnaudroger/SimpleFlatMapper/sfm-converter) org.simpleflatmapper:sfm-converter:bundle:6.0.9
+    License: The MIT License (MIT)  (http://opensource.org/licenses/MIT)
+  - sfm-csv (http://github.com/arnaudroger/SimpleFlatMapper/sfm-csv) org.simpleflatmapper:sfm-csv:bundle:6.0.9
+    License: The MIT License (MIT)  (http://opensource.org/licenses/MIT)
+  - sfm-map (http://github.com/arnaudroger/SimpleFlatMapper/sfm-map) org.simpleflatmapper:sfm-map:bundle:6.0.9
+    License: The MIT License (MIT)  (http://opensource.org/licenses/MIT)
+  - sfm-reflect (http://github.com/arnaudroger/SimpleFlatMapper/sfm-reflect) org.simpleflatmapper:sfm-reflect:bundle:6.0.9
+    License: The MIT License (MIT)  (http://opensource.org/licenses/MIT)
+  - sfm-tuples (http://github.com/arnaudroger/SimpleFlatMapper/sfm-tuples) org.simpleflatmapper:sfm-tuples:bundle:6.0.9
+    License: The MIT License (MIT)  (http://opensource.org/licenses/MIT)
+  - sfm-util (http://github.com/arnaudroger/SimpleFlatMapper/sfm-util) org.simpleflatmapper:sfm-util:bundle:6.0.9
+    License: The MIT License (MIT)  (http://opensource.org/licenses/MIT)
+  - SnakeYAML (http://www.snakeyaml.org) org.yaml:snakeyaml:bundle:1.23
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - XML Pull Parsing API (http://www.xmlpull.org) xmlpull:xmlpull:jar:1.1.3.1
+    License: Public Domain  (http://www.xmlpull.org/v1/download/unpacked/LICENSE.txt)
+
+From: 'Apache NiFi Project' (http://nifi.apache.org/)
+  - nifi-convertdataformat-processors (http://nifi.apache.org/nifi-nar-bundles/convertdataformat/nifi-convertdataformat-processors) io.github.assimbly:nifi-convertdataformat-processors:jar:1.8.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.8.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Extreme! Lab, Indiana University' (http://www.extreme.indiana.edu/)
+  - MXP1: Xml Pull Parser 3rd Edition (XPP3) (http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/) xpp3:xpp3_min:jar:1.1.4c
+    License: Indiana University Extreme! Lab Software License, vesion 1.1.1  (http://www.extreme.indiana.edu/viewcvs/~checkout~/XPP3/java/LICENSE.txt)    License: Public Domain  (http://creativecommons.org/licenses/publicdomain)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.9.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.9.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.9.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-dataformat-CSV (https://github.com/FasterXML/jackson-dataformats-text) com.fasterxml.jackson.dataformat:jackson-dataformat-csv:bundle:2.9.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-dataformat-YAML (https://github.com/FasterXML/jackson-dataformats-text) com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:bundle:2.9.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Collections (http://commons.apache.org/collections/) commons-collections:commons-collections:jar:3.2.2
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons JXPath (http://commons.apache.org/jxpath/) commons-jxpath:commons-jxpath:jar:1.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Logging (http://commons.apache.org/proper/commons-logging/) commons-logging:commons-logging:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons BeanUtils (https://commons.apache.org/proper/commons-beanutils/) commons-beanutils:commons-beanutils:jar:1.9.3
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Collections (http://commons.apache.org/proper/commons-collections/) org.apache.commons:commons-collections4:jar:4.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.8.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Text (http://commons.apache.org/proper/commons-text/) org.apache.commons:commons-text:jar:1.3
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'XStream' (http://x-stream.github.io)
+  - XStream Core (http://x-stream.github.io/xstream) com.thoughtworks.xstream:xstream:jar:1.4.11.1
+    License: BSD style  (http://x-stream.github.io/license.html)
+
+
+
+
