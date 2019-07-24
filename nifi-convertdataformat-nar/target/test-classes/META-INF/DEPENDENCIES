@@ -9,7 +9,7 @@ nifi-convertdataformat-nar
 From: 'an unknown organization'
   - opencsv (http://opencsv.sf.net) com.opencsv:opencsv:jar:4.4
     License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - docconverter (https://github.com/assimbly) io.github.assimbly:docconverter:jar:1.1.0
+  - docconverter (https://github.com/assimbly) io.github.assimbly:docconverter:jar:1.2.0
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - JSON in Java (https://github.com/douglascrockford/JSON-java) org.json:json:bundle:20180813
     License: The JSON License  (http://json.org/license.html)
@@ -47,13 +47,13 @@ From: 'Extreme! Lab, Indiana University' (http://www.extreme.indiana.edu/)
 From: 'FasterXML' (http://fasterxml.com/)
   - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.9.0
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.9.7
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.9.9
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.9.7
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.9.9
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Jackson-dataformat-CSV (https://github.com/FasterXML/jackson-dataformats-text) com.fasterxml.jackson.dataformat:jackson-dataformat-csv:bundle:2.9.7
+  - Jackson-dataformat-CSV (https://github.com/FasterXML/jackson-dataformats-text) com.fasterxml.jackson.dataformat:jackson-dataformat-csv:bundle:2.9.9
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Jackson-dataformat-YAML (https://github.com/FasterXML/jackson-dataformats-text) com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:bundle:2.9.7
+  - Jackson-dataformat-YAML (https://github.com/FasterXML/jackson-dataformats-text) com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:bundle:2.9.9
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: 'The Apache Software Foundation' (http://www.apache.org/)
@@ -75,6 +75,10 @@ From: 'The Apache Software Foundation' (https://www.apache.org/)
     License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Commons Text (http://commons.apache.org/proper/commons-text/) org.apache.commons:commons-text:jar:1.3
     License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Univocity Software Pty Ltd' (www.univocity.com)
+  - univocity-parsers (http://github.com/univocity/univocity-parsers) com.univocity:univocity-parsers:jar:2.8.2
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: 'XStream' (http://x-stream.github.io)
   - XStream Core (http://x-stream.github.io/xstream) com.thoughtworks.xstream:xstream:jar:1.4.11.1
