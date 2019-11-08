@@ -34,9 +34,9 @@ From: 'an unknown organization'
   - XML Pull Parsing API (http://www.xmlpull.org) xmlpull:xmlpull:jar:1.1.3.1
     License: Public Domain  (http://www.xmlpull.org/v1/download/unpacked/LICENSE.txt)
 
-From: 'Apache NiFi Project' (http://nifi.apache.org/)
-  - nifi-utils (http://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.8.0
-    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
 
 From: 'Extreme! Lab, Indiana University' (http://www.extreme.indiana.edu/)
   - MXP1: Xml Pull Parser 3rd Edition (XPP3) (http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/) xpp3:xpp3_min:jar:1.1.4c
@@ -53,6 +53,14 @@ From: 'FasterXML' (http://fasterxml.com/)
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Jackson-dataformat-YAML (https://github.com/FasterXML/jackson-dataformats-text) com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:bundle:2.9.9
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+  - Old JAXB Core (http://jaxb.java.net/jaxb-bundles/jaxb-core) com.sun.xml.bind:jaxb-core:jar:2.3.0
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - Old JAXB Runtime (http://jaxb.java.net/jaxb-bundles/jaxb-impl) com.sun.xml.bind:jaxb-impl:jar:2.3.0
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - jaxb-api (https://github.com/javaee/jaxb-spec/jaxb-api) javax.xml.bind:jaxb-api:jar:2.3.0
+    License: CDDL 1.1  (https://oss.oracle.com/licenses/CDDL+GPL-1.1)    License: GPL2 w/ CPE  (https://oss.oracle.com/licenses/CDDL+GPL-1.1)
 
 From: 'The Apache Software Foundation' (http://www.apache.org/)
   - Apache Commons Collections (http://commons.apache.org/collections/) commons-collections:commons-collections:jar:3.2.2
@@ -71,7 +79,7 @@ From: 'The Apache Software Foundation' (https://www.apache.org/)
     License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.8.1
     License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache Commons Text (http://commons.apache.org/proper/commons-text) org.apache.commons:commons-text:jar:1.4
+  - Apache Commons Text (https://commons.apache.org/proper/commons-text) org.apache.commons:commons-text:jar:1.8
     License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: 'Univocity Software Pty Ltd' (www.univocity.com)
