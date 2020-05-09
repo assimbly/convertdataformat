@@ -19,7 +19,7 @@
     <parent>
         <groupId>io.github.assimbly</groupId>
         <artifactId>convertdataformat</artifactId>
-        <version>1.10.0</version>
+        <version>1.11.4</version>
     </parent>
 
     <artifactId>nifi-convertdataformat-processors</artifactId>
@@ -33,12 +33,12 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-utils</artifactId>
-            <version>1.10.0</version>
+            <version>1.11.4</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-mock</artifactId>
-            <version>1.10.0</version>
+            <version>1.11.4</version>
             <scope>test</scope>
         </dependency>
         <dependency>
@@ -54,7 +54,7 @@
 		<dependency>
 		    <groupId>io.github.assimbly</groupId>
 		    <artifactId>docconverter</artifactId>
-		    <version>1.2.0</version>
+		    <version>1.3.0</version>
 		</dependency>			        
         <dependency>
             <groupId>junit</groupId>
